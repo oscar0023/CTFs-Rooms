@@ -1,5 +1,5 @@
-
-
+<img width="945" height="428" alt="image" src="https://github.com/user-attachments/assets/02afb724-18df-4604-a413-81b39e9c3178" />
+<img width="945" height="278" alt="image" src="https://github.com/user-attachments/assets/67f814eb-aa0d-4eaa-93c7-2940a17b7745" />
 <img width="1275" height="426" alt="image" src="https://github.com/user-attachments/assets/bb07200a-cbf1-4d03-827c-545926e694d4" />
 <img width="945" height="394" alt="image" src="https://github.com/user-attachments/assets/1fd5ea11-a95c-49d6-a8d1-fdf279cd2e07" />
 <img width="945" height="184" alt="image" src="https://github.com/user-attachments/assets/6f8f1cf9-3ec5-47ca-9768-d3e22089106a" />
@@ -22,4 +22,26 @@ Use the information gathered from inspecting the Email1.eml file from Task 5 to 
 <img width="1350" height="630" alt="image" src="https://github.com/user-attachments/assets/39aab7ee-7688-4cc7-90a3-6df86f5c6676" />
 <img width="1351" height="630" alt="image" src="https://github.com/user-attachments/assets/0c1091ec-4250-47f1-86ed-e2a495094951" />
 <img width="1280" height="211" alt="image" src="https://github.com/user-attachments/assets/fe9e1a4d-fc64-4dd6-b8ec-1a72eda3ca42" />
+
+# Scenario
+
+You are a SOC Analyst. Several suspicious emails have been forwarded to you from other coworkers. You must obtain details from each email to triage the incidents reported. 
+
+# Task
+
+Use the tools and knowledge discussed throughout this room (or use your resources) to help you analyze Email2.eml found on the VM attached to Task 5 and use the information to answer the questions.
+
+<img width="1365" height="525" alt="image" src="https://github.com/user-attachments/assets/750446d8-95d4-40e0-a122-652d823f3f9d" />
+
+
+# Scenario
+
+You are a SOC Analyst. Several suspicious emails have been forwarded to you from other coworkers. You must obtain details from each email to triage the incidents reported. 
+
+# Task
+
+Use the tools and knowledge discussed throughout this room (or use your resources) to help you analyze Email3.eml found on the VM attached to Task 5 and use the information to answer the questions.
+
+<img width="945" height="363" alt="image" src="https://github.com/user-attachments/assets/57bd3c11-f023-4b5e-9d32-40396403547f" />
+<img width="924" height="217" alt="image" src="https://github.com/user-attachments/assets/12c17946-c29b-41ce-b7cd-47b5766b112d" />
 
